@@ -373,6 +373,10 @@ const Presentation = () => (
             The only readable geometry data are provided by the DPW7 meshes
           </ListItem>
         </UnorderedList>
+        <ListItem>
+          A <Latex>{`$\\mathbb{P}_3$`}</Latex> mesh is built from this initial
+          mesh to obtain a surrogate CAD model...
+        </ListItem>
       </UnorderedList>
     </Full>
 
@@ -413,6 +417,7 @@ const Presentation = () => (
         <ListItem>
           <Alert>No geometry, no mesh, no solution, ...</Alert>
         </ListItem>
+        <ListItem>Quantify the impact on drag of this misdefined geometry which clearly does not have the right wetted surface</ListItem>
       </UnorderedList>
     </Centered>
   </InriaDeck>
