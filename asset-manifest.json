@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CFDCanada2023/static/css/main.1a077553.css",
-    "main.js": "/CFDCanada2023/static/js/main.2a98052e.js",
+    "main.js": "/CFDCanada2023/static/js/main.7928e9bb.js",
     "static/media/KaTeX_AMS-Regular.ttf": "/CFDCanada2023/static/media/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf",
     "static/media/KaTeX_Main-Regular.ttf": "/CFDCanada2023/static/media/KaTeX_Main-Regular.9eba1d77abcf2aa6e94e.ttf",
     "static/media/KaTeX_Main-Bold.ttf": "/CFDCanada2023/static/media/KaTeX_Main-Bold.8169508bf58f8bd92ad8.ttf",
@@ -64,10 +64,10 @@
     "static/media/KaTeX_Size3-Regular.woff2": "/CFDCanada2023/static/media/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2",
     "index.html": "/CFDCanada2023/index.html",
     "main.1a077553.css.map": "/CFDCanada2023/static/css/main.1a077553.css.map",
-    "main.2a98052e.js.map": "/CFDCanada2023/static/js/main.2a98052e.js.map"
+    "main.7928e9bb.js.map": "/CFDCanada2023/static/js/main.7928e9bb.js.map"
   },
   "entrypoints": [
     "static/css/main.1a077553.css",
-    "static/js/main.2a98052e.js"
+    "static/js/main.7928e9bb.js"
   ]
 }
